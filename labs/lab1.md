@@ -4,14 +4,14 @@ Python Laboratory
 # Welcome to Python!
 
 Python is a computer programming language.
-Python helps you tell the computer what you want it to do.
+Python helps you tell the computer what you want to do.
 With Python, you can:
 
-* Draw computer graphics
-* Make games
-* Build a website
-* Solve problems in math and science
-* ... and more!
+* Draw computer graphics.
+* Make games.
+* Build a website.
+* Solve problems in math and science.
+* ... and much much more!
 
 In this lab, we're going to focus on making computer graphics.
 
