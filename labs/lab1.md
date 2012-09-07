@@ -137,32 +137,46 @@ This will be handy if I want to draw windows on my house.
 
 # Functions
 
+Let's look at some harder things.
+
 * Download `lab1.py` from `labs` folder.
 * In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
 * In this window, go to `Run > Run Module`.
 
-Now you can give new commands like
-
+Now you can give new commands like:
 ```python
 >>> small_circle()
 ```
 
-`small_circle` is a *function*. A function does everything after the `:` symbol everytime you mention its name.
-
-The function `small_circle` is:
-
+In `lab1.py`, I *defined* `small_circle` as:
 ```python
 def small_circle():
     turtle.circle(100)
 ```
 
-So every time you write `small_circle()`, the computer will also run `turtle.circle(100)` for you.
+`small_circle` is a *function*. A function does everything after the `:` symbol everytime you mention its name.
+
+So every time you give the command `small_circle()`, the computer will also run `turtle.circle(100)` for you.
 
 Functions are handy when you have a lot of commands to give over and over again.
 You'll hurt your hands if you type too much!
+So let's look back at that picture we drew.
+I was making a house.
 
+Let's *define* a new *function* that draws a house:
 ```python
-def 
+def house():
+    turtle.reset()
+    turtle.home()
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.
 ```
 
 Write a function that draws a square.
