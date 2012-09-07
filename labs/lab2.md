@@ -3,6 +3,8 @@
 In this lab we're going to learn some general Python,
 then we'll apply it to Turtle Graphics to draw complex pictures.
 
+* Start up IDLE the same way you did in Lab 1.
+
 # Data Types
 
 The two basic data types we will be working with are *numbers* like `1`, `2`, `3`,
