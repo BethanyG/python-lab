@@ -249,7 +249,7 @@ In `lab1.py`, *define* the function `picture()` with anything you want to draw.
 
 *Hint*: What happens if you use `picture()` inside of `picture()`?
 
-When you're done, `Run > Run Module` and `>>> picture()` to see what happens.
+When you're done, go to `Run > Run Module` and run `>>> picture()` to see what happens.
 
 # Saving your work.
 
