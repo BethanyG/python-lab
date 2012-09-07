@@ -102,14 +102,22 @@ But now, we could do this:
 >>> square()
 ```
 
-And we get a 50-long square.
+Or this:
 
 ```python
 >>> length = 200
 >>> square()
 ```
 
-And we get a 200-long square.
+And we get the square we want.
+
+---
+
+Let's do the same thing for colors!
+
+The value of a color is stored as *string* data.
+
+For example, `"red"` and `"#ff0000"` are both the color red.
 
 # Lists
 
