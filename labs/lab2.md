@@ -113,22 +113,23 @@ And we get the square we want.
 
 ---
 
-Let's do the same thing for colors!
+We can do the same thing for colors!
 
 The value of a color is stored as *string* data.
 
 For example, `"red"` and `"#ff0000"` are both the color red.
 
-*Hint*: `"#ff0000"` is a fancy way to name a color.
-There are color palettes to help you come up with names. http://www.color-hex.com/color-wheel/
+*Hint*: `"#ff0000"` is a strange way to name a color.
+A color palette can help you come up with these names.
+http://www.color-hex.com/color-wheel/
 
-In Turtle Graphics, you can change color:
+In Turtle Graphics, you can change color with *pencolor*:
 ```python
 >>> color = "red"
 >>> turtle.pencolor(color)
 ```
 
-
+Here, `color` is a variable, and it is remembering the data `"red"`.
 
 # Lists
 
