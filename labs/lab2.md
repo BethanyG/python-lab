@@ -7,6 +7,8 @@ then we'll apply it to Turtle Graphics to draw complex pictures.
 
 # Data Types
 
+"Data" means information.
+
 The two basic data types we will be working with are *numbers* like `1`, `2`, `3`,
 and *strings*, like `"How are you today?"`.
 
@@ -22,8 +24,8 @@ A *number* can be expressed in several ways:
 100.0
 ```
 
-A *string* is another name for text.
-A string begins and ends with a quote symbol, `"` or `'`.
+"String" is just another name for written words.
+A *string* begins and ends with a quote symbol, `"` or `'`.
 ```python
 >>> "It was the best of times, it was the worst of times..."
 'It was the best of times, it was the worst of times...'
