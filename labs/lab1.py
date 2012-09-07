@@ -49,7 +49,7 @@ def house():
     turtle.right(180)
     
 def square():
-    pass # YOUR CODE GOES HERE
+    pass # DELETE THIS LINE AND REPLACE WITH YOUR CODE
 
 def picture():
-    pass # YOUR CODE GOES HERE
+    pass # DELETE THIS LINE AND REPLACE WITH YOUR CODE
