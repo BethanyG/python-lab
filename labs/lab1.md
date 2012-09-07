@@ -10,7 +10,7 @@ With Python, you can:
 * Draw pictures. http://www.blender.org/
 * Make games. http://www.eveonline.com/
 * Build a company. https://www.dropbox.com/
-* Solve problems in math and science. 
+* Solve problems in math and science. http://www.slac.stanford.edu/
 * Take over the world. http://www.google.com/
 * ... and much much more!
 
