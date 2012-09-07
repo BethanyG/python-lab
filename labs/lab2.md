@@ -174,3 +174,5 @@ For example:
 ```
 
 What happened?
+
+**Raise your hand and explain to a teacher what just happened.**
