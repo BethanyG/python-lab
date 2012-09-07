@@ -159,8 +159,8 @@ Let's look at something really tricky.
 The file `lab1.py` is an example of a *source* file.
 It has all of the instructions you could give to the *prompt* (remember: `>>>`),
 but you only have to type it once.
-A prompt is handy when you want to experiment with commands.
-A source file is handy when you want to save your commands for later.
+A prompt is handy when you want to experiment with commands interactively.
+A source file is handy when you want to save your commands for later, or run them all at once.
 
 * In the `lab1.py` window, go to the menu `Run > Run Module`.
 
@@ -240,3 +240,19 @@ Then you can draw a lot of squares!
 ```
 
 **Please raise your hand and show me your squares when you're done.**
+
+In `lab1.py`, *define* the function `picture()` with anything you want to draw.
+
+*Hint*: Now you can use `square()` inside of `picture()` to draw squares quickly.
+
+*Hint*: You can also use the `circle()` function inside of `picture()`.
+
+*Hint*: What happens if you use `picture()` inside of `picture()`?
+
+When you're done, `Run > Run Module` and `>>> picture()` to see what happens.
+
+# Saving your work.
+
+Go to the menu, `File > Save` to save your *source* file.
+
+**Remember to save your changes to `lab1.py` so you can continue later.**
