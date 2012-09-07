@@ -201,3 +201,16 @@ Your job is to complete the function.
 First, let's read up on what a Spirograph is: 
 http://en.wikipedia.org/wiki/Spirograph
 
+Remember to go to `Run > Run Module`, then you can run the function `>>> spirograph()`.
+
+*Hint*: If you want to speed up the drawing, run `turtle.delay(0)`.
+
+---
+
+## Step 1
+
+Come up with a new pattern of your own.
+
+## Step 2
+
+Let's add some color.
