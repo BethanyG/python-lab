@@ -149,13 +149,20 @@ Now draw something of your own.
 stop drawing when the turtle moves, and `turtle.pendown()` will continue drawing.
 This will be handy if I want to draw windows on my house.
 
-# Functions
+# Advanced Topic: Functions
 
-Let's look at some harder things.
+Let's look at something really tricky.
 
 * Download `lab1.py` from `labs` folder.
 * In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
-* In this window, go to `Run > Run Module`.
+
+The file `lab1.py` is an example of a *source* file.
+It has all of the instructions you could give to the *prompt* (remember: `>>>`),
+but you only have to type it once.
+A prompt is handy when you want to experiment with commands.
+A source file is handy when you want to save your commands for later.
+
+* In the `lab1.py` window, go to the menu `Run > Run Module`.
 
 Now you can give new commands like:
 ```python
