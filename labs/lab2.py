@@ -2,7 +2,7 @@ import turtle
 
 colors = ["black"]
 
-def colors(iteration):
+def color(iteration):
     turtle.pencolor(colors[iteration % len(colors)])
 
 def spirograph():
