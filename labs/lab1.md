@@ -72,35 +72,33 @@ That's all for now. We'll learn more about the language later.
 First, you need to load Turtle Graphics:
     
 ```python
-import turtle
+>>> import turtle
 ```
     
 Then, you can draw pictures:
     
 ```python
-turtle.forward(100)
-turtle.left(90)
-turtle.forward(200)
+>>> turtle.forward(100)
+>>> turtle.left(90)
+>>> turtle.forward(200)
 ```
 
 You can change the color:
     
 ```python
-turtle.pencolor("red")
+>>> turtle.pencolor("red")
 ```
 
 You can change the background color:
     
 ```python
-turtle.bgcolor("blue")
+>>> turtle.bgcolor("blue")
 ```
 
 You can draw a circle:
 ```python
-turtle.circle(200)
+>>> turtle.circle(200)
 ```
-
-# 
 
 # Challenge
 
