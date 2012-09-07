@@ -1,6 +1,7 @@
 # Practical Python
 
-In this lab we're going to learn some fundamental Python.
+In this lab we're going to learn some general Python,
+then we'll apply it to Turtle Graphics to draw complex pictures.
 
 # Data Types
 
