@@ -4,6 +4,7 @@ In this lab we're going to learn some general Python,
 then we'll apply it to Turtle Graphics to draw complex pictures.
 
 * Start up IDLE the same way you did in Lab 1.
+* Remember to `import turtle` before you draw pictures.
 
 # Data Types
 
