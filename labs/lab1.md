@@ -100,11 +100,33 @@ You can draw a circle:
 >>> turtle.circle(200)
 ```
 
+Whenever you want to erase everything and start fresh:
+```python
+>>> turtle.reset()
+```
+
 # Challenge
 
 Draw a picture of something using lines and circles.
+For example, here's a house I made:
 
-**Raise your hand and show me when you're done.**
+```python
+>>> turtle.home()
+>>> turtle.forward(100)
+>>> turtle.left(90)
+>>> turtle.forward(100)
+>>> turtle.left(90)
+>>> turtle.forward(100)
+>>> turtle.left(90)
+>>> turtle.forward(100)
+>>> turtle.left(90)
+>>> turtle.goto(0, 100)
+>>> turtle.circle(100, 180)
+```
+
+Now draw something of your own.
+
+**Raise your hand and show me your drawing when you're done.**
 
 # Functions
 
