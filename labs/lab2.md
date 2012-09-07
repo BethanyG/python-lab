@@ -21,6 +21,10 @@ A *number* can be expressed in several ways:
 
 A *string* is another name for text.
 A string begins and ends with a quote symbol, `"` or `'`.
+```python
+>>> "It was the best of times, it was the worst of times..."
+'It was the best of times, it was the worst of times...'
+```
 
 # Variables
 
