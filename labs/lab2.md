@@ -316,7 +316,7 @@ Because they are eager for your business, DropBox will give you **2 gigabytes** 
 
 **Challenge**: How big is a *gigabyte*?
 
-*Hint*: *giga* means a billion, and every letter of Python you type is one *byte*.
+*Hint*: *giga* means a billion, and every letter of Python code you type is one *byte* of data.
 
 ## Step 4: Photo Gallery
 
