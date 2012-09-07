@@ -133,11 +133,27 @@ Here, `color` is a variable, and it is remembering the data `"red"`.
 
 # Lists
 
-In your IDLE prompt:
+In your IDLE prompt, please type:
 ```python
 >>> [1, 2, 3]
 [1, 2, 3]
 ```
 
+`[1, 2, 3]` is a *list* of data, the numbers `1`, `2`, and `3`, in that order.
+
 You can create a list of things in Python with *square brackets*, `[` and `]`.
+You must separate your data by commas, `,`.
+
+Let's store some colors in a variable!
+```python
+>>> colors = ["red", "blue", "green", "purple"]
+```
+
+Whenever we want to find that list, just type `colors`.
+```python
+>>> colors
+['red', 'blue', 'green', 'purple']
+```
+
+Things are about to get exciting!
 
