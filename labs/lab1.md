@@ -15,6 +15,48 @@ With Python, you can:
 
 In this lab, we're going to focus on making computer graphics.
 
+# The Language
+
+Learning Python is a lot like learning English, Spanish, or any spoken language.
+A computer language like Python translates human work into computer work.
+
+After loading IDLE, you will see something like this:
+
+```
+Python 3.2.3 (default, Apr 11 2012, 07:15:24) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+```
+
+Just to get warmed up, let's do a little math:
+```python
+>>> 1 + 1
+2
+```
+
+The `>>>` is called a "prompt." The prompt is waiting for your Python command.
+You can type in something like `1 + 1`, press the `Enter` key, and the computer will write back the answer.
+
+If you ever want to remember something, computers have lots of memory.
+
+```python
+>>> five = 2 + 3
+```
+
+Now, if you ever want to know what `2 + 3` is, you can just say `five`.
+
+```python
+>>> five
+5
+```
+
+You can do multiplication with the `*` key (press `Shift`+`8`).
+
+```python
+>>> five * five
+25
+```
+
 # Getting Started
 
 Make sure you have Python installed on your computer.
