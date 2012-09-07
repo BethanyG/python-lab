@@ -24,7 +24,7 @@ If IDLE isn't installed, visit http://python.org/download/ in your web browser, 
 
 # The Language
 
-Learning Python is a lot like learning English, Spanish, or any spoken language.
+Learning Python is a lot like learning English, Español, Français or any other spoken language.
 A computer language like Python translates human work into computer work.
 
 After loading IDLE, you will see something like this:
