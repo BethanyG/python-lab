@@ -213,8 +213,29 @@ Come up with a new pattern of your own.
 
 You might get some ideas here: http://en.wikipedia.org/wiki/File:Various_Spirograph_Designs.jpg
 
-
+*Hint*: The `turtle.circle` function can be used to create semi-circles and arcs.
+In `turtle.circle(50, 180)`, the `50` is the radius of the circle,
+and the `180` is how many degrees in the circle are drawn.
 
 ## Step 2
 
 Let's add some color.
+
+You'll find a function called `color` in `lab2.py`.
+`color(0)` will set the pen color to the first color listed in `colors`.
+`color(1)` will set the pen color to the second color listed in `colors`.
+`color(2)` will set the pen color to the third color, and so on...
+
+If there aren't enough colors in `colors`, then it starts over from the beginning of the list.
+
+So you could get a new color listed in `colors` with each iteration:
+```python
+def spirograph():
+    for iteration in range(1, 1000):
+        color(iteration)
+        # ... the rest of your code ...
+```
+
+## Step 3
+
+**Show the class your picture!**
