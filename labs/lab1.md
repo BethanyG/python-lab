@@ -3,7 +3,7 @@ Python Laboratory
 
 # Welcome to Python!
 
-Python is a computer programming language.
+Python is a *computer programming language*.
 Python helps you tell the computer what you want to do.
 With Python, you can:
 
@@ -42,10 +42,10 @@ Just to get warmed up, let's do a little math:
 2
 ```
 
-The `>>>` is called a "prompt." The prompt is waiting for your Python command.
+The `>>>` is called a *prompt*. The prompt is waiting for your Python command.
 You can type in something like `1 + 1`, press the `Enter` key, and the computer will write back the answer.
 
-If you ever want to remember something, computers have lots of memory.
+If you ever want to remember something, computers can help you remember.
 
 ```python
 >>> five = 2 + 3
@@ -65,7 +65,7 @@ You can do multiplication with the `*` key (press `Shift`+`8`).
 25
 ```
 
-
+That's all for now. We'll learn more about the language later.
 
 # Turtle Graphics
 
@@ -104,12 +104,26 @@ turtle.circle(200)
 
 # Challenge
 
+* Download `lab1.py` from `labs` folder.
+* In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
+* In this window, go to `Run > Run Module`.
+
+Now you can give new commands like
+
+```python
+>>> small_circle()
+```
+
+`small_circle` is a *function*. A function does 
+
 Write a function that draws a square.
 
 ```python
 def square():
     # YOUR CODE GOES HERE
 ```
+
+
 
 Then you can draw a lot of squares!
 
@@ -123,3 +137,5 @@ square()
 turtle.goto(200, 0)
 square()
 ```
+
+**Please raise your hand and show me your squares when you're done.**
