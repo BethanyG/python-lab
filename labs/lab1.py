@@ -1,25 +1,21 @@
 import turtle
 
-# Draw a square.
-turtle.forward(200)
-turtle.left(90)
-turtle.forward(200)
-turtle.left(90)
-turtle.forward(200)
-turtle.left(90)
-turtle.forward(200)
-turtle.left(90)
+# Draw a small circle.
+def small_circle():
+    turtle.circle(100)
 
-# Draw a square whenever you type "square()".
-def square():
-    turtle.forward(200)
-    turtle.left(90)
-    turtle.forward(200)
-    turtle.left(90)
-    turtle.forward(200)
-    turtle.left(90)
-    turtle.forward(200)
-    turtle.left(90)
+# Draw a big circle.
+def big_circle():
+    turtle.circle(500)
 
-# Draw a square.
-square()
+# Draw any size circle.
+def circle(radius):
+    turtle.circle(radius)
+
+# Try running:
+#
+# >>> small_circle()
+#
+# >>> big_circle()
+#
+# >>> circle(300)
