@@ -194,3 +194,10 @@ Here's an *iteration* that changes pen size:
 # Challenge
 
 When you're ready, download `lab2.py`.
+
+`lab2.py` contains an incomplete function called `spirograph`.
+Your job is to complete the function.
+
+First, let's read up on what a Spirograph is: 
+http://en.wikipedia.org/wiki/Spirograph
+
