@@ -1,4 +1,5 @@
 import turtle
 
 def spirograph():
-  pass # DELETE THIS LINE AND REPLACE WITH YOUR CODE
+    for iteration in range(1, 1000):
+        pass # DELETE THIS LINE AND REPLACE WITH YOUR CODE
