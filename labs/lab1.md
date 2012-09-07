@@ -7,10 +7,11 @@ Python is a *computer programming language*.
 Python helps you tell the computer what you want to do.
 With Python, you can:
 
-* Draw computer graphics.
-* Make games.
-* Build a website.
-* Solve problems in math and science.
+* Draw pictures. http://www.blender.org/
+* Make games. http://www.eveonline.com/
+* Build a company. https://www.dropbox.com/
+* Solve problems in math and science. 
+* Take over the world. http://www.google.com/
 * ... and much much more!
 
 In this lab, we're going to focus on making computer graphics.
