@@ -137,7 +137,6 @@ For example, here's a house I made:
 >>> turtle.forward(40)
 >>> turtle.right(180)
 ```
-(You can tell I'm a gifted artist!)
 
 Now draw something of your own.
 
