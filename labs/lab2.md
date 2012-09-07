@@ -75,8 +75,8 @@ def square():
 Notice that `square` draws a square with sides that are `100` long.
 What if we wanted a square with sides `50` long?
 
-* We could write a new square function...
-* OR, we could use a variable!
+* We could write a whole new function, just for squares 50 long.
+* Or, we could use a *variable*!
 
 ```python
 length = 100
@@ -91,6 +91,25 @@ def square():
     turtle.forward(length)
     turtle.left(90)
 ```
+
+`length` is the variable. Every time the computer runs `turtle.forward(length)`,
+it asks `length` for the stored value, which is `100`.
+
+But now, we could do this:
+
+```python
+>>> length = 50
+>>> square()
+```
+
+And we get a 50-long square.
+
+```python
+>>> length = 200
+>>> square()
+```
+
+And we get a 200-long square.
 
 # Lists
 
