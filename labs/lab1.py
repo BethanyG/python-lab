@@ -20,21 +20,33 @@ def circle(radius):
 #
 # >>> circle(300)
 
+# Draw a house.
 def house():
-    turtle.reset()
-    turtle.home()
     turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(50)
     turtle.left(90)
     turtle.forward(100)
     turtle.left(90)
+    turtle.forward(50)
+    turtle.left(180)
+    turtle.forward(50)
+    turtle.right(90)
     turtle.forward(100)
-    turtle.left(90)
-    turtle.forward(100)
-    turtle.left(90)
-    turtle.goto(0, 100)
-    turtle.goto(100, 100)
     turtle.left(90)
     turtle.circle(50, 180)
+    turtle.forward(50)
+    turtle.left(90)
+    turtle.forward(20)
+    turtle.left(90)
+    turtle.forward(30)
+    turtle.right(90)
+    turtle.forward(20)
+    turtle.right(90)
+    turtle.forward(30)
+    turtle.right(90)
+    turtle.forward(40)
+    turtle.right(180)
     
 def square():
     # YOUR CODE GOES HERE
