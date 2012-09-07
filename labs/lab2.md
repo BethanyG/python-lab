@@ -241,7 +241,10 @@ def spirograph():
 colors = ["black"]
 ```
 
-Visit http://www.color-hex.com/color-wheel/ and find some fun new colors to add to the list.
+But you can add as many colors as you want!
+Visit http://www.color-hex.com/color-wheel/ and find some fun colors to add to the list.
+
+For example, `"#b01db5"` is a violet, `"#0faed6"` is sky blue, and `"#baa057"` is a bister.
 
 ## Step 3
 
