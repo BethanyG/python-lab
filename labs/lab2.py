@@ -5,5 +5,5 @@ def spirograph():
         pass # DELETE THIS LINE AND REPLACE WITH YOUR CODE
         
         # Example:
-        #turtle.line(300)
+        #turtle.forward(300)
         #turtle.right(170)
