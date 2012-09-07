@@ -211,6 +211,10 @@ Remember to go to `Run > Run Module`, then you can run the function `>>> spirogr
 
 Come up with a new pattern of your own.
 
+You might get some ideas here: http://en.wikipedia.org/wiki/File:Various_Spirograph_Designs.jpg
+
+
+
 ## Step 2
 
 Let's add some color.
