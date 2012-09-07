@@ -121,6 +121,8 @@ For example, here's a house I made:
 >>> turtle.forward(100)
 >>> turtle.left(90)
 >>> turtle.goto(0, 100)
+>>> turtle.goto(100, 100)
+>>> turtle.left(90)
 >>> turtle.circle(100, 180)
 ```
 
