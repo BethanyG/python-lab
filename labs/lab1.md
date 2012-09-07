@@ -145,7 +145,7 @@ Now draw something of your own.
 
 **Raise your hand and show me your drawing when you're done.**
 
-*Hint* If you want to move the cursor without drawing anything, `turtle.penup()` will
+*Hint* If you want to move the turtle without drawing anything, `turtle.penup()` will
 stop drawing when the turtle moves, and `turtle.pendown()` will continue drawing.
 This will be handy if I want to draw windows on my house.
 
