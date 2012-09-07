@@ -290,10 +290,29 @@ school's computers.
 You can also store files on the Internet.
 
 One advantage is that you can give your friends and family a *hyperlink* to your file,
-and they can access it from any web browser on any computer.
+and they can access it from any web browser on any computer, anywhere in the world.
 
-``
+https://github.com/michaelmp/python-lab/blob/master/labs/lab2.md is a hyperlink to this file,
+the one you are reading _right now_!
+
+---
+
+Now that you have an email address, you can sign up for Internet services.
+Many are free.
+
+Over **2.2 billion** people are on the Internet! Why not you?
+
+Let's sign up for one service at: https://www.dropbox.com/register
+
+You will need to enter your Name (or an *alias* if you want to remain anonymous),
+an Email Address (you just signed up for one!),
+and a password.
+
+DropBox is a `file hosting service`.
+They'll hold onto your files if you don't have any other place to put them.
 
 ## Step 4: Photo Gallery
 
-Now that you've
+Now that you've got an *email address* and a *file host*, you're ready to publish your picture!
+
+...
