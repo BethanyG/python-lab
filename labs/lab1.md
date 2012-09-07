@@ -221,6 +221,8 @@ def house():
 
 *Now*, whenever I want to draw a house, I can just type `house()`.
 
+# Challenge
+
 Okay, it's your turn. Please write a function that draws a square:
 ```python
 def square():
@@ -230,7 +232,11 @@ def square():
 Then you can draw a lot of squares!
 
 ```python
->>> 
+>>> square()
+>>> turtle.forward(100)
+>>> square()
+>>> turtle.left(45)
+>>> square()
 ```
 
 **Please raise your hand and show me your squares when you're done.**
