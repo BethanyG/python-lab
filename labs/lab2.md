@@ -119,6 +119,9 @@ The value of a color is stored as *string* data.
 
 For example, `"red"` and `"#ff0000"` are both the color red.
 
+*Hint*: `"#ff0000"` is a fancy way to name a color.
+There are color palettes to help you come up with names. http://www.color-hex.com/color-wheel/
+
 In Turtle Graphics, you can change color:
 ```python
 >>> color = "red"
