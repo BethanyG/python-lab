@@ -308,8 +308,14 @@ You will need to enter your Name (or an *alias* if you want to remain anonymous)
 an Email Address (you just signed up for one!),
 and a password.
 
-DropBox is a `file hosting service`.
+DropBox is an example of a *file hosting service*.
 They'll hold onto your files if you don't have any other place to put them.
+
+Because they are eager for your business, DropBox will give you **2 gigabytes** of free storage.
+
+**Challenge**: How big is a *gigabyte*?
+
+*Hint*: *giga* means a billion, and every letter of Python you type is one *byte*.
 
 ## Step 4: Photo Gallery
 
