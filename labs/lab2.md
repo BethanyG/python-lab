@@ -292,7 +292,8 @@ You can also store files on the Internet.
 One advantage is that you can give your friends and family a *hyperlink* to your file,
 and they can access it from any web browser on any computer, anywhere in the world.
 
-https://github.com/michaelmp/python-lab/blob/master/labs/lab2.md is a hyperlink to this file,
+https://github.com/michaelmp/python-lab/blob/master/labs/lab2.md#step-3-online-storage
+is a hyperlink to this file,
 the one you are reading _right now_!
 
 ---
