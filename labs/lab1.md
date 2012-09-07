@@ -163,7 +163,8 @@ You'll hurt your hands if you type too much!
 So let's look back at that picture we drew.
 I was making a house.
 
-Let's *define* a new *function* that draws a house:
+Let's *define* a new *function* that draws that house.
+It will have all of the same commands I wrote before, following the `def house():` line of code.
 ```python
 def house():
     turtle.reset()
@@ -176,7 +177,10 @@ def house():
     turtle.left(90)
     turtle.forward(100)
     turtle.left(90)
-    turtle.
+    turtle.goto(0, 100)
+    turtle.goto(100, 100)
+    turtle.left(90)
+    turtle.circle(50, 180)
 ```
 
 Write a function that draws a square.
