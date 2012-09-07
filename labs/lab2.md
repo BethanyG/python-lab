@@ -53,6 +53,24 @@ And I can retrieve the number by referring to the variable `ten`.
 **Challenge:** Create a variable called `name` that remembers your name as a *string*.
 Then run `>>> print(name)`
 
+# Turtle Graphics
+
+Okay. Now that we know how to remember numbers with variables, let's put it to use.
+
+In Lab 1, we learned about *functions*. Remember?
+```python
+def square():
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+```
+
+
 # Lists
 
 In your IDLE prompt:
