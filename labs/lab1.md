@@ -50,8 +50,28 @@ You can change the background color:
 turtle.bgcolor("blue")
 ```
 
+
+
 # 
 
 # Challenge
 
+Write a function that draws a square.
 
+```python
+def square():
+    # YOUR CODE GOES HERE
+```
+
+Draw a lot of squares!
+
+```python
+turtle.goto(100, 100)
+square()
+
+turtle.goto(-100, 0)
+square()
+
+turtle.goto(200, 0)
+square()
+```
