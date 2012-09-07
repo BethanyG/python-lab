@@ -102,6 +102,16 @@ You can draw a circle:
 
 # Challenge
 
+Draw a picture of something using lines and circles.
+
+**Raise your hand and show me when you're done.**
+
+# Functions
+
+
+
+# Challenge
+
 * Download `lab1.py` from `labs` folder.
 * In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
 * In this window, go to `Run > Run Module`.
