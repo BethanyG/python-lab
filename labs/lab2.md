@@ -256,3 +256,44 @@ Remember to save `lab2.py` with your spirograph drawing!
 
 # Bonus: Publish your work!
 
+After you have finished your spirograph, it's time to learn a little bit about the Internet.
+Let's save the picture you made and put it on the Internet where everyone else can find it.
+
+## Step 1: Save your picture.
+
+Press the `Print Screen` key on your keyboard. It's hidden at the far right.
+
+Now, open `Paint` from the Windows Start Menu.
+
+Click on the menu, `Edit > Paste`.
+Now you have a big picture of what was on the screen when you pressed `Print Screen`.
+
+"Crop" the picture down to just your spirograph picture, then go to the menu, `File > Save As`.
+
+Save your picture as a `PNG` file.
+
+## Step 2: Email
+
+Getting an email account is easy and free.
+
+An email account lets you send messages to friends and family.
+
+It is also a way for Internet companies to communicate with you.
+
+...
+
+## Step 3: Online Storage
+
+Until now, the lab files you have been saving have been stored on the
+school's computers.
+
+You can also store files on the Internet.
+
+One advantage is that you can give your friends and family a *hyperlink* to your file,
+and they can access it from any web browser on any computer.
+
+``
+
+## Step 4: Photo Gallery
+
+Now that you've
