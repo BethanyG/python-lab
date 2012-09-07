@@ -119,6 +119,14 @@ The value of a color is stored as *string* data.
 
 For example, `"red"` and `"#ff0000"` are both the color red.
 
+In Turtle Graphics, you can change color:
+```python
+>>> color = "red"
+>>> turtle.pencolor(color)
+```
+
+
+
 # Lists
 
 In your IDLE prompt:
