@@ -153,7 +153,7 @@ This will be handy if I want to draw windows on my house.
 
 Let's look at something really tricky.
 
-* Download `lab1.py` (https://github.com/michaelmp/python-lab/blob/master/labs/lab1.py) from the `labs` folder. 
+* Download `lab1.py` from the `labs` folder. https://raw.github.com/michaelmp/python-lab/master/labs/lab1.py
 * In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
 
 The file `lab1.py` is an example of a *source* file.
