@@ -35,3 +35,9 @@ def house():
     turtle.goto(100, 100)
     turtle.left(90)
     turtle.circle(50, 180)
+    
+def square():
+    # YOUR CODE GOES HERE
+
+def picture():
+    # YOUR CODE GOES HERE
