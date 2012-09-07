@@ -166,9 +166,9 @@ Iteration is where you repeat some commands for every thing in a list.
 For example:
 ```python
 >>> for color in colors:
-	turtle.pencolor(color)
-	turtle.forward(50)
-	
+        turtle.pencolor(color)
+        turtle.forward(50)
+        
 ```
 
 What happened?
