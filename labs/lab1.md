@@ -15,6 +15,13 @@ With Python, you can:
 
 In this lab, we're going to focus on making computer graphics.
 
+# Getting Started
+
+Make sure you have Python installed on your computer.
+From the Windows Start Menu, run `IDLE (Python GUI)`.
+
+If IDLE isn't installed, visit http://python.org/download/ in your web browser, and install Python 3.2.3. 
+
 # The Language
 
 Learning Python is a lot like learning English, Spanish, or any spoken language.
@@ -57,12 +64,7 @@ You can do multiplication with the `*` key (press `Shift`+`8`).
 25
 ```
 
-# Getting Started
 
-Make sure you have Python installed on your computer.
-From the Windows Start Menu, run `IDLE (Python GUI)`.
-
-If IDLE isn't installed, visit http://python.org/download/ in your web browser, and install Python 3.2.3. 
 
 # Turtle Graphics
 
