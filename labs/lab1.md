@@ -1,6 +1,3 @@
-Computer Programming Laboratory
----
-
 # Welcome to Python!
 
 Python is a *computer programming language*.
