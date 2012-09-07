@@ -1,4 +1,4 @@
-Python Laboratory
+Computer Programming Laboratory
 ---
 
 # Welcome to Python!
