@@ -19,3 +19,19 @@ def circle(radius):
 # >>> big_circle()
 #
 # >>> circle(300)
+
+def house():
+    turtle.reset()
+    turtle.home()
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.forward(100)
+    turtle.left(90)
+    turtle.goto(0, 100)
+    turtle.goto(100, 100)
+    turtle.left(90)
+    turtle.circle(50, 180)
