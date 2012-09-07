@@ -242,6 +242,8 @@ Then you can draw a lot of squares!
 
 **Please raise your hand and show me your squares when you're done.**
 
+# Challenge
+
 In `lab1.py`, *define* the function `picture()` with anything you want to draw.
 
 *Hint*: Now you can use `square()` inside of `picture()` to draw squares quickly.
