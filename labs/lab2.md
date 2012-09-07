@@ -164,13 +164,10 @@ Iteration is where you repeat some commands for every thing in a list.
 
 For example:
 ```python
->>> for number in [1, 2, 3]:
-        print(number)
-
+>>> for color in colors:
+	turtle.pencolor(color)
+	turtle.forward(50)
 	
-1
-2
-3
 ```
 
 What happened?
