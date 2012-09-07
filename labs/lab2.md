@@ -236,6 +236,13 @@ def spirograph():
         # ... the rest of your code ...
 ```
 
+`lab2.py` comes with only one color:
+```python
+colors = ["black"]
+```
+
+Visit http://www.color-hex.com/color-wheel/ and find some fun new colors to add to the list.
+
 ## Step 3
 
-**Show the class your picture!**
+When you're all done, **show the class your picture!**
