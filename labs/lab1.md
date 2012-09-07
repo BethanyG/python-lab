@@ -167,8 +167,6 @@ Let's *define* a new *function* that draws that house.
 It will have all of the same commands I wrote before, following the `def house():` line of code.
 ```python
 def house():
-    turtle.reset()
-    turtle.home()
     turtle.forward(100)
     turtle.left(90)
     turtle.forward(100)
@@ -176,11 +174,14 @@ def house():
     turtle.forward(100)
     turtle.left(90)
     turtle.forward(100)
-    turtle.left(90)
-    turtle.goto(0, 100)
-    turtle.goto(100, 100)
+    turtle.left(180)
+    turtle.forward(100)
+    turtle.right(90)
+    turtle.forward(100)
     turtle.left(90)
     turtle.circle(50, 180)
+    turtle.forward(100)
+    turtle.left(90)
 ```
 
 Write a function that draws a square.
