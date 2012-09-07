@@ -45,7 +45,8 @@ And I can retrieve the number by referring to the variable `ten`.
 100
 ```
 
-**Challenge:** Create a variable called `name` that remembers your name.
+**Challenge:** Create a variable called `name` that remembers your name as a *string*.
+Then run `>>> print(name)`
 
 # Lists
 
