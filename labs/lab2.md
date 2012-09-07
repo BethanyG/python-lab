@@ -70,6 +70,27 @@ def square():
     turtle.left(90)
 ```
 
+`square` is a function. You can run `square()` to run all of the code inside of the function.
+
+Notice that `square` draws a square with sides that are `100` long.
+What if we wanted a square with sides `50` long?
+
+* We could write a new square function...
+* OR, we could use a variable!
+
+```python
+length = 100
+
+def square():
+    turtle.forward(length)
+    turtle.left(90)
+    turtle.forward(length)
+    turtle.left(90)
+    turtle.forward(length)
+    turtle.left(90)
+    turtle.forward(length)
+    turtle.left(90)
+```
 
 # Lists
 
