@@ -123,8 +123,9 @@ For example, here's a house I made:
 >>> turtle.goto(0, 100)
 >>> turtle.goto(100, 100)
 >>> turtle.left(90)
->>> turtle.circle(100, 180)
+>>> turtle.circle(50, 180)
 ```
+(You can tell I'm a gifted artist!)
 
 Now draw something of your own.
 
