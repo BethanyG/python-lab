@@ -174,3 +174,23 @@ For example:
 What happened?
 
 **Raise your hand and explain to a teacher what just happened.**
+
+---
+
+There is a Turtle Graphics command called `pensize`.
+```python
+>>> turtle.pensize(10)
+>>> turtle.forward(100)
+```
+
+Here's an *iteration* that changes pen size:
+```python
+>>> for size in [10, 20, 30, 40, 50]:
+        turtle.pensize(size)
+        turtle.forward(size)
+
+```
+
+# Challenge
+
+When you're ready, download `lab2.py`.
