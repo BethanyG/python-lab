@@ -249,3 +249,10 @@ For example, `"#b01db5"` is a violet, `"#0faed6"` is sky blue, and `"#baa057"` i
 ## Step 3
 
 When you're all done, **show the class your picture!**
+
+## Step 4
+
+Remember to save `lab2.py` with your spirograph drawing!
+
+# Bonus: Publish your work!
+
