@@ -131,11 +131,11 @@ Now draw something of your own.
 
 **Raise your hand and show me your drawing when you're done.**
 
+*Hint* If you want to move the cursor without drawing anything, `turtle.penup()` will
+stop drawing when the turtle moves, and `turtle.pendown()` will continue drawing.
+This will be handy if I want to draw windows on my house.
+
 # Functions
-
-
-
-# Challenge
 
 * Download `lab1.py` from `labs` folder.
 * In IDLE, go to `File > Open` and open `lab1.py`. A new window will appear.
