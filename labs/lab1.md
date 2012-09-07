@@ -144,7 +144,23 @@ Now you can give new commands like
 >>> small_circle()
 ```
 
-`small_circle` is a *function*. A function does 
+`small_circle` is a *function*. A function does everything after the `:` symbol everytime you mention its name.
+
+The function `small_circle` is:
+
+```python
+def small_circle():
+    turtle.circle(100)
+```
+
+So every time you write `small_circle()`, the computer will also run `turtle.circle(100)` for you.
+
+Functions are handy when you have a lot of commands to give over and over again.
+You'll hurt your hands if you type too much!
+
+```python
+def 
+```
 
 Write a function that draws a square.
 
@@ -152,8 +168,6 @@ Write a function that draws a square.
 def square():
     # YOUR CODE GOES HERE
 ```
-
-
 
 Then you can draw a lot of squares!
 
