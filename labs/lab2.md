@@ -155,5 +155,22 @@ Whenever we want to find that list, just type `colors`.
 ['red', 'blue', 'green', 'purple']
 ```
 
-Things are about to get exciting!
+# Iteration
 
+Things are about to get exciting now!
+
+One thing we can do with lists is *iterate*.
+Iteration is where you repeat some commands for every thing in a list.
+
+For example:
+```python
+>>> for number in [1, 2, 3]:
+        print(number)
+
+	
+1
+2
+3
+```
+
+What happened?
