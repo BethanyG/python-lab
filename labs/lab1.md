@@ -164,11 +164,14 @@ A source file is handy when you want to save your commands for later.
 
 * In the `lab1.py` window, go to the menu `Run > Run Module`.
 
-Now you can give new commands like:
+Now you can give new commands to the prompt:
 ```python
 >>> small_circle()
+>>> big_circle()
+>>> circle(300)
 ```
 
+These commands did not exist until you ran `Run > Run Module`.
 In `lab1.py`, I *defined* `small_circle` as:
 ```python
 def small_circle():
@@ -177,10 +180,11 @@ def small_circle():
 
 `small_circle` is a *function*. A function does everything after the `:` symbol everytime you mention its name.
 
-So every time you give the command `small_circle()`, the computer will also run `turtle.circle(100)` for you.
+So every time you give the command `>>> small_circle()` at the prompt,
+the computer will also run `turtle.circle(100)` for you.
 
-Functions are handy when you have a lot of commands to give over and over again.
-You'll hurt your hands if you type too much!
+Functions are handy when you have a lot of commands to repeat over and over again.
+(You'll hurt your hands if you type too much!)
 So let's look back at that picture we drew.
 I was making a house.
 
@@ -215,8 +219,9 @@ def house():
     turtle.right(180)
 ```
 
-Write a function that draws a square.
+*Now*, whenever I want to draw a house, I can just type `house()`.
 
+Okay, it's your turn. Please write a function that draws a square:
 ```python
 def square():
     # YOUR CODE GOES HERE
@@ -225,14 +230,7 @@ def square():
 Then you can draw a lot of squares!
 
 ```python
-turtle.goto(100, 100)
-square()
-
-turtle.goto(-100, 0)
-square()
-
-turtle.goto(200, 0)
-square()
+>>> 
 ```
 
 **Please raise your hand and show me your squares when you're done.**
