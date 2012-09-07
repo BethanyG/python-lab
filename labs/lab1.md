@@ -50,7 +50,10 @@ You can change the background color:
 turtle.bgcolor("blue")
 ```
 
-
+You can draw a circle:
+```python
+turtle.circle(200)
+```
 
 # 
 
@@ -63,7 +66,7 @@ def square():
     # YOUR CODE GOES HERE
 ```
 
-Draw a lot of squares!
+Then you can draw a lot of squares!
 
 ```python
 turtle.goto(100, 100)
