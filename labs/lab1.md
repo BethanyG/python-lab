@@ -1,40 +1,57 @@
 Python Laboratory
-=================
+---
 
-1. Welcome to Python!
+# Welcome to Python!
 
-2. Getting Started
+Python is a computer programming language.
+Python helps you tell the computer what you want it to do.
+With Python, you can:
 
-3. Turtle Graphics
+* Draw computer graphics
+* Make games
+* Build a website
+* Solve problems in math and science
+* ... and more!
 
-    First, you need to load Turtle Graphics:
+In this lab, we're going to focus on making computer graphics.
+
+# Getting Started
+
+Make sure you have Python installed on your computer.
+From the Windows Start Menu, run `IDLE (Python GUI)`.
+
+If IDLE isn't installed, visit http://python.org/download/ in your web browser, and install Python 3.2.3. 
+
+# Turtle Graphics
+
+First, you need to load Turtle Graphics:
     
-    ```python
-    import turtle
-    ```
+```python
+import turtle
+```
     
-    Then, you can draw pictures:
+Then, you can draw pictures:
     
-    ```python
-    turtle.forward(100)
-    turtle.left(90)
-    turtle.forward(200)
-    ```
+```python
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(200)
+```
 
-    You can change the color:
+You can change the color:
     
-    ```python
-    turtle.pencolor("red")
-    ```
+```python
+turtle.pencolor("red")
+```
 
-    You can change the background color:
+You can change the background color:
     
-    ```python
-    turtle.bgcolor("blue")
-    ```
+```python
+turtle.bgcolor("blue")
+```
 
-4. 
+# 
 
-5. Challenge
+# Challenge
 
 
