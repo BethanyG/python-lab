@@ -24,7 +24,7 @@ turtle.right(90)
 Writing our commands into a file let's us save our work,
 and we can run all of these commands at once.
 
-*Click on `Run > Run Module` to run this program.*
+*Click on `Run > Run Module` or press `F5` to run this program.*
 
 You will have to save your file before it will run. Choose any name you like. Save it to your `Desktop`.
 
@@ -52,4 +52,4 @@ def square():
 
 Now we have a new command, `square()`, that we can run any time.
 
-Click `Run > Run Module`, then `>>> square()`.
+Click `Run > Run Module` or press `F5`, then `>>> square()` at the prompt.
