@@ -1,6 +1,6 @@
 # Python Files
 
-Last time, we ran all of Python commands from the `>>>` prompt.
+Last time, we ran all of our Python commands from the `>>>` prompt.
 Interactive commands are good for experimentation, but we also want to save our work in files.
 
 1. Run `IDLE` from the Start Menu.
