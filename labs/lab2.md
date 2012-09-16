@@ -25,3 +25,31 @@ Writing our commands into a file let's us save our work,
 and we can run all of these commands at once.
 
 *Click on `Run > Run Module` to run this program.*
+
+You will have to save your file before it will run. Choose any name you like. Save it to your `Desktop`.
+
+IDLE will then run the code, drawing a square, and will give you a new `>>>` prompt to run additional commands.
+
+# Functions
+
+A *function* is a collection of commands grouped together in a single command.
+
+For example:
+
+```python
+import turtle
+
+def square():
+    turtle.forward(200)
+    turtle.right(90)
+    turtle.forward(200)
+    turtle.right(90)
+    turtle.forward(200)
+    turtle.right(90)
+    turtle.forward(200)
+    turtle.right(90)
+```
+
+Now we have a new command, `square()`, that we can run any time.
+
+Click `Run > Run Module`, then `>>> square()`.
