@@ -52,4 +52,4 @@ def square():
 
 Now we have a new command, `square()`, that we can run any time.
 
-Click `Run > Run Module` or press `F5`, then `>>> square()` at the prompt.
+Click `Run > Run Module` or press `F5`, then type `>>> square()` at the prompt.
