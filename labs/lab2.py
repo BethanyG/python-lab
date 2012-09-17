@@ -70,3 +70,12 @@ def hearts():
         color(iteration)
         at(0, iteration * -5)
         heart(iteration * 10, 45)
+        
+#### And a bonus! ####
+
+# What happens if we use a function within itself?
+def spiral(size):
+    turtle.pensize(1)
+    turtle.delay(20)
+    turtle.circle(size, 90)
+    spiral(size * 1.1)
