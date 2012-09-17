@@ -2,6 +2,10 @@
 
 with Michael Morris-Pearce
 
+## Turtle Graphics: Cheat Sheet
+
+https://github.com/michaelmp/python-lab/blob/master/turtle-manual.md
+
 ## Lab 1
 
 Instructions: https://github.com/michaelmp/python-lab/blob/master/labs/lab1.md
