@@ -26,7 +26,9 @@ and we can run all of these commands at once.
 
 *Click on `Run > Run Module` or press `F5` to run this program.*
 
-You will have to save your file before it will run. Choose any name you like. Save it to your `Desktop`.
+You will have to save your file before it will run.
+Choose any name you want, like `mycode.py`.
+Save it to your `Desktop`.
 
 IDLE will then run the code, drawing a square, and will give you a new `>>>` prompt to run additional commands.
 
