@@ -1,6 +1,10 @@
 import turtle
 from math import sin, pi
 
+# A function is a collection of commands grouped into a single command.
+# The function 'square()' does everything after 'def square():'.
+# All you have to do is run the new command 'square()'
+
 def square():
     turtle.forward(200)
     turtle.right(90)
@@ -48,7 +52,7 @@ def car():
     at(0, 25)
     chassis()
 
-#### Now for something completely different ####
+#### Now for something completely different, iterations! ####
 
 colors = ["red", "orange", "yellow", "green", "blue", "purple", "violet"]
 
@@ -71,7 +75,7 @@ def hearts():
         at(0, iteration * -5)
         heart(iteration * 10, 45)
         
-#### And a bonus! ####
+#### And a bonus, recursive functions! ####
 
 # What happens if we use a function within itself?
 def spiral(size):
