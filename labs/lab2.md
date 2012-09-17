@@ -53,3 +53,12 @@ def square():
 Now we have a new command, `square()`, that we can run any time.
 
 Click `Run > Run Module` or press `F5`, then type `>>> square()` at the prompt.
+
+# Your Turn
+
+Write a function that draws something of your own,
+then use your function to draw it over and over again quickly!
+
+# Bonus
+
+Visit https://github.com/michaelmp/python-lab/blob/master/labs/lab2.py and try some of functions.
