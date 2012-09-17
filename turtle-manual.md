@@ -18,6 +18,16 @@ turtle.right(90)
 turtle.left(90)
 ```
 
+Draw a circle, with radius 50 pixels:
+```python
+turtle.circle(50)
+```
+
+Draw a semi-circle:
+```python
+turtle.circle(50, 180)
+```
+
 Change the color:
 ```python
 turtle.pencolor("blue")
