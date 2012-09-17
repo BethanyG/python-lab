@@ -1,5 +1,4 @@
 import turtle
-from math import sin, pi
 
 # A function is a collection of commands grouped into a single command.
 # The function 'square()' does everything after 'def square():'.
@@ -14,6 +13,8 @@ def square():
     turtle.right(90)
     turtle.forward(200)
     turtle.right(90)
+
+from math import sin, pi
 
 def heart(size, shape):
     turtle.pensize(10)
