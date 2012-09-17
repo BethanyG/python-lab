@@ -9,6 +9,9 @@ Draw a line, 100 pixels long:
 ```python
 turtle.forward(100)
 ```
+```python
+turtle.back(100)
+```
 
 Change direction, right or left by 90 degrees:
 ```python
