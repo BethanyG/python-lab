@@ -48,3 +48,17 @@ Send the turtle to center of the screen:
 turtle.home()
 ```
 
+Move the turtle without drawing:
+```python
+turtle.penup()
+```
+
+Resume drawing when turtle moves:
+```python
+turtle.pendown()
+```
+
+Make the turtle draw faster:
+```python
+turtle.delay(0)
+```
