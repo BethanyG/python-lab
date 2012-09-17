@@ -84,3 +84,5 @@ def spiral(size):
     turtle.delay(20)
     turtle.circle(size, 90)
     spiral(size * 1.1)
+
+at(0, 0)
